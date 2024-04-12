@@ -1,2 +1,2 @@
-*.terra linguist-language=Python
+*.terra linguist-language=python
 docs/formatter.rb linguist-documentation=false
